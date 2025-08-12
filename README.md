@@ -7,7 +7,6 @@ The API supports **CRUD operations** (Create, Read, Update, Delete) and uses **M
 ---
 
 ## 📂 Folder Structure
-```
 ```markdown
 project-root/
 │
@@ -67,7 +66,7 @@ project-root/
    ```
 
 ---
-
+````
 ## 🚀 API Endpoints
 
 | Method | Endpoint     | Description       |
@@ -76,7 +75,7 @@ project-root/
 | POST   | `/users`     | Create a new user |
 | PUT    | `/users/:id` | Update user by ID |
 | DELETE | `/users/:id` | Delete user by ID |
-
+````
 ---
 
 ## 📬 Example Request (POST)
