@@ -79,7 +79,7 @@ project-root/
 ---
 
 ## 📬 Example Request (POST)
-
+````
 **URL:** `http://localhost:5000/users`
 **Method:** POST
 **Body (JSON):**
@@ -93,7 +93,7 @@ project-root/
 ```
 
 ---
-
+````
 ## 🧪 Testing
 
 You can test all routes using **Postman**:
@@ -102,15 +102,15 @@ You can test all routes using **Postman**:
 * POST → Add a new user
 * PUT → Edit a user by ID
 * DELETE → Remove a user by ID
-
+````
 ---
-
+````
 ## 📝 Notes
 
 * The database is connected to **MongoDB Atlas**.
 * Don’t forget to comment your code before submission.
 * Make sure `.env` is **NOT** pushed to GitHub (add it to `.gitignore`).
-
+````
 ---
 
 ## 👨‍💻 Author
