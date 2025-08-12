@@ -1,4 +1,3 @@
-```markdown
 # REST API Checkpoint — Users CRUD with Express & Mongoose
 
 ## 📌 Project Description
@@ -9,7 +8,7 @@ The API supports **CRUD operations** (Create, Read, Update, Delete) and uses **M
 
 ## 📂 Folder Structure
 ```
-
+```markdown
 project-root/
 │
 ├── config/
